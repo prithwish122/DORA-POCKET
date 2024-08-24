@@ -1,0 +1,29 @@
+nft deployed = 0xf42509ed438193a58143b229B8A7e9F38710F1e8
+
+marketplace deployed = 0xFa6e55dB169E1ce624078C86A248A9B40A2559d3
+
+
+
+// {
+//   "name": "hardhat-project",
+//   "devDependencies": {
+//     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+//     "hardhat": "^2.22.8"
+//   },
+//   "dependencies": {
+//     "@openzeppelin/contracts": "^4.5.0",
+//     "dotenv": "^16.4.5",
+//     "ipfs-http-client": "^56.0.1",
+//     "react-router-dom": "^6.26.1"
+//   }
+// }
+
+
+nft = 0xeD9feB5bB190f8C8E8E9b0A6D738C78200dD097E
+
+
+pinata api key = 9e7118ff453e1d86e59f
+
+pinata api key secret =  9e167824f9cfbf35f632ba74841b76930e840af667b70862c7ca65e995e497dc
+
+pinata jwt key = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiIwMjc1MmNiOC0yZWUzLTQ1Y2UtYmU3Mi1kNTg2OGYzMWJhMGEiLCJlbWFpbCI6InByaXRod2lzaGNoYXR0ZXJqZWUxMjc3QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxLCJpZCI6IkZSQTEifSx7ImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxLCJpZCI6Ik5ZQzEifV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2UsInN0YXR1cyI6IkFDVElWRSJ9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiI5ZTcxMThmZjQ1M2UxZDg2ZTU5ZiIsInNjb3BlZEtleVNlY3JldCI6IjllMTY3ODI0ZjljZmJmMzVmNjMyYmE3NDg0MWI3NjkzMGU4NDBhZjY2N2I3MDg2MmM3Y2E2NWU5OTVlNDk3ZGMiLCJleHAiOjE3NTU1OTk5ODV9.rN93brjE55KDxoPV9L12h6MgNQL6QeA-G9tO4PyyiDI

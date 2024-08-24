@@ -1,0 +1,16 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.8"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "ipfs-http-client": "^56.0.1",
+    "os-browserify": "^0.3.0",
+    "pinata": "^0.2.0",
+    "react-router-dom": "^6.26.1"
+  }
+}
